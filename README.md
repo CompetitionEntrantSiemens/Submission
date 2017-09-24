@@ -1,5 +1,5 @@
-# Submission
-Using topic probability dissimilarity to discover a latent feature space for understanding twitter user stances and their community structure 
+# VisTA
+Visualization by Topic Allocation. Using topic probability dissimilarity to discover a latent feature space for understanding twitter user stances and their community structure 
 
 To run the visualization portion of the code, open the Recent_LDA folder. 'TopicMDS.ipynb' enables you to visualize the user structure for the target topics of "Atheism", "Legalization of Abortion","Climate Change is a Real Concern", "Hillary Clinton", and "Feminist Movement" by changing the value of target based upon the list of targets, called targets. 
 
