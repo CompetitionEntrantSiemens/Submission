@@ -9,4 +9,6 @@ The RBMUsers Folder already contains the created documents for the users of the 
 
 To run the supervised classifiers on the SemEval 2016 dataset, run 'SVMandNaiveBayes.ipynb'
 
-To see the tf-idf k-means clustering implementation for topics, run 'K-means Tf-IDF.ipynb'
+To see the tf-idf k-means clustering implementation for topics, run 'K-means Tf-IDF.ipynb' 
+
+I have uploaded the relevant GloVe files from the Stanford NLP group. The SemEval 2016 dataset is in the stance folder. 
